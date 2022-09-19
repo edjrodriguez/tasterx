@@ -12,9 +12,6 @@ The four members of this project collaborated remotely. We used daily stand-ups,
     * Become proficient in React, React Router, and E2E testing with Cypress
     * App development using React hooks in place of class components
 
-## External Data APIs
-- Data was sourced from TVMaze's publicly available TV show API https://www.tvmaze.com/api
-
 ## Technologies Used
 - React/JSX
 - Postgres
@@ -45,17 +42,22 @@ The four members of this project collaborated remotely. We used daily stand-ups,
 * Integration with Social Media sharing platforms
 * Present the shareable prescription as a downloadable image
 
+## Local Set-Up Instructions
+* clone down the repo by running `git clone git@github.com:dstavis/tasterx.git` in the terminal
+* run `npm install` in the terminal
+* run `npm start` in the terminal
 
 ## Members
-__________________________
 - Anna Spitz [linkedin](https://www.linkedin.com/in/aspitz1/)
 - David Stavis [linkedin](https://www.linkedin.com/in/dstavis/)
 - Eddie Rodriguez [linkedin](https://www.linkedin.com/in/edward-rodriguez-1b497423b/)
 - Tom Fettig [linkedin](https://www.linkedin.com/in/tom-fettig-86323a115/)
 
 ## Links
-__________________________
 - [Project Spec](https://frontend.turing.edu/projects/module-3/stretch.html)
 - UI [GitHub](https://github.com/dstavis/tasterx)
 - Server & Database [GitHub](https://github.com/dstavis/tasterx-api)
 - Work ticket kanban [Trello Board](https://trello.com/b/X48waU4e/tasterx)
+
+## External Data APIs
+- Data was sourced from TVMaze's publicly available TV show API https://www.tvmaze.com/api
