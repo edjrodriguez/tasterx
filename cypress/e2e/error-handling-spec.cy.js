@@ -46,6 +46,8 @@ describe('Error handling', () => {
     cy.visit('http://localhost:3000/gramcracker')
       .get('.not-found-message')
       .contains('404: Not found');
+    cy.get('.make-new-script').click()
+      .url().should('not.include', '/gramcracker')
   });
   
 });
