@@ -52,6 +52,5 @@ describe('Error handling', () => {
       .get('.make-new-script')
       .click()
       .location('pathname').should('eq', '/');
-  });
-  
+  }); 
 });
