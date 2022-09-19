@@ -3,7 +3,7 @@
 [Deployed Link](https://tasterx.herokuapp.com/)
 
 ## Abstract
-Do you have good taste in TV shows?  Do you think the world would be a better place if more people watched a particular show?  TasteRX allows users to search for and then 'prescribe' a TV show to another person. The created prescription can then easily be shared via URL.
+Do you have good taste in TV shows?  Do you think the world would be a better place if more people watched a particular show?  TasteRX allows users to search for and then 'prescribe' a TV show to another person; the created prescription can then easily be shared via URL.
 
 The four members of this project collaborated remotely. We used daily stand-ups, screensharing over Zoom, GitHub Pull Requests, Code Reviews, Kanban-style project board tickets, and Slack to remain productive on a tight schedule. With just 11 part-time days to determine our concept, collect design inspiration, wireframe our proposed features, learn new technologies, and build an end-to-end tested frontend app with backend server and database, teamwork and collaboration was vital to achieve our goals.
 
