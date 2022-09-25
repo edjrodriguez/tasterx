@@ -18,7 +18,7 @@ The four members of this project collaborated remotely. We used daily stand-ups,
 - Sequelize
 - Heroku
 - Express
-- Javascript
+- JavaScript
 - HTML/CSS
 - Cypress
 - fetch API 
